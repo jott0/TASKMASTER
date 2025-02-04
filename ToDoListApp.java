@@ -8,7 +8,7 @@ public class Updatedtodo extends JFrame {
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/todo";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "amarjot@1234#";
+    private static final String DB_PASSWORD = "your_password";
 
     // GUI components
     private JTextField taskField;
